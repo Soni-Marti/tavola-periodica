@@ -1,0 +1,35 @@
+.intestazione{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 8px;
+
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 6px;
+    border-radius: 30px;
+}
+
+
+.link-navigazione{
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.camper{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+
+.nome-bio{
+    color:purple
+}
+
+
+.nome-bio2{
+    color: blue;
+}
